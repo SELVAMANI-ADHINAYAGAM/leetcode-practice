@@ -16,10 +16,8 @@ class Solution {
 
                     return false;
                 }
-
             }
         }
         return sta.isEmpty();
-
     }
 }
